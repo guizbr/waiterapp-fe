@@ -4,6 +4,7 @@ Trata-se de um painel para gerenciar os pedidos de um restaurante. Ele é alimen
 Este site foi desenvolvido com o ReactJS utilizando o Vite, TypeScript e styled components para a estilização.
 
 Link para o repositório do projeto waiterapp-api: https://github.com/guizbr/waiterapp-api
+
 Link para o repositório do projeto waiterapp-mobile: https://github.com/guizbr/waiterapp-mobile
 
 Imagens do site:
