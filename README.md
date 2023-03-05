@@ -8,8 +8,9 @@ Link para o repositório do projeto waiterapp-mobile: https://github.com/guizbr/
 
 Imagens do site:
 
-![front1](https://user-images.githubusercontent.com/55899678/222971014-5d20a07b-7210-48db-bd26-45a60bee01dd.png)
 
-![front2](https://user-images.githubusercontent.com/55899678/222971021-c87582e2-d135-42b7-a7ab-3561a181424b.png)
+![front1](https://user-images.githubusercontent.com/55899678/222971223-6cd4a053-6356-4262-ac13-0aaa93db0c1d.png)
+
+![front2](https://user-images.githubusercontent.com/55899678/222971229-12c38695-b0bd-4c4e-8dc2-95c7644de448.png)
 
 Este projeto foi desenvolvido durante a semana de "O Poder do JS" do Mateus Silva.
