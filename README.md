@@ -1,7 +1,7 @@
 # WaiterApp - Frontend
 Trata-se de um painel para gerenciar os pedidos de um restaurante. Ele é alimentado por uma API (waiterapp-api) que pode ser encontrado aqui no meu github, além disso existe também um aplicativo mobile (waiterapp-mobile) onde são criados os pedidos.
  
-Este site foi desenvolvido com o ReactJS utilizando o Vite, TypeScript e styled components para a estilização.
+Este site foi desenvolvido com o ReactJS utilizando o Vite, TypeScript, styled components para a estilização e a biblioteca Socket.IO para fazer a comunicação em tempo real com o aplicativo mobile.
 
 Link para o repositório do projeto waiterapp-api: https://github.com/guizbr/waiterapp-api
 
